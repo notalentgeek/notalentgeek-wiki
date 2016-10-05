@@ -1,0 +1,3 @@
+* There is an error `Failed to build gem native extension.` when installing Jekyll in my computer.
+* The solution can be found here, [http://stackoverflow.com/questions/13767725/unable-to-install-gem-failed-to-build-gem-native-extension-cannot-load-such](http://stackoverflow.com/questions/13767725/unable-to-install-gem-failed-to-build-gem-native-extension-cannot-load-such).
+* Basically just try to install these with `apt-get` in Ubuntu, `sudo apt-get install make ruby ruby-dev ruby1.9.1-dev`.
