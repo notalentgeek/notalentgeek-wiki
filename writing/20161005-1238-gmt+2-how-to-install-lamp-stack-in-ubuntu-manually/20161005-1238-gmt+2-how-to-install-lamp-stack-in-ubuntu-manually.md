@@ -22,4 +22,4 @@ php -r 'echo "\n\nYour PHP installation is working fine.\n\n\n";'
 
 * Here is the full screenshot of the web page.
 
-![./20161005-12-38-gmt+2-how-to-install-lamp-stack-in-ubuntu-manually-1.png](./20161005-12-38-gmt+2-how-to-install-lamp-stack-in-ubuntu-manually-1.png)
+![./20161005-1238-gmt+2-how-to-install-lamp-stack-in-ubuntu-manually-1.png](./20161005-1238-gmt+2-how-to-install-lamp-stack-in-ubuntu-manually-1.png)
