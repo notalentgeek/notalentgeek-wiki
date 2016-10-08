@@ -1,0 +1,3 @@
+* Must watch anime movies, [http://goboiano.com/list/5215-22-amazing-anime-movies-you-could-watch-with-your-family-that-aren%2527t-by-studio-ghibli](http://goboiano.com/list/5215-22-amazing-anime-movies-you-could-watch-with-your-family-that-aren%2527t-by-studio-ghibli)!
+
+![./20161008-2000-gmt+2-22-anime-movie-those-are-not-from-studio-ghibi-1.png](./20161008-2000-gmt+2-22-anime-movie-those-are-not-from-studio-ghibi-1.png)
