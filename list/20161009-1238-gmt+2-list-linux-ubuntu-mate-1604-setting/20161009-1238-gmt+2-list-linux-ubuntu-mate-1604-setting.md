@@ -3,7 +3,9 @@
 ```markdown
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install apache2 bleachbit blender chromium-browser composer dia gimp git imagemagick inkscape keepassx libapache2-mod-php libreoffice make mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-pip python3 python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird
+sudo apt-get install apache2 bleachbit blender chromium-browser composer dia gimp git gparted imagemagick inkscape keepassx libapache2-mod-php libreoffice make mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-pip python3 python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird
+git config --global user.email mikael.pratama@yahoo.com
+git config --global user.name notalentgeek
 pip install --updgrade pip
 pip install mkdocs
 pip3 install --updgrade pip
@@ -24,8 +26,6 @@ pip3 install --updgrade pip
 * Login ThunderBird notalentgeek@gmail.com.
 * Login ThunderBird pratama_mikael@yahoo.com.
 * Set Chromium as default browser.
-* Set Git global configuration using this command, `git config --global user.email mikael.pratama@yahoo.com`.
-* Set Git global configuration using this command, `git config --global user.name notalentgeek`.
 * Set KeePassX application database.
 * Set Keyboard application Country to United States and Variants to English (US). Then delete the unused keyboard.
 * Set MySQL application password to asd.
