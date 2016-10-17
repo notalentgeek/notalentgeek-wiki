@@ -1,0 +1,3 @@
+* Here is a tutorial on how to get 3 IVs Ditto for sure using PokeRadar, [https://www.reddit.com/r/pokemon/comments/1shpw4/guide_how_to_reliably_catch_3iv_dittos_in_gen_vi/](https://www.reddit.com/r/pokemon/comments/1shpw4/guide_how_to_reliably_catch_3iv_dittos_in_gen_vi/).
+
+![./20161017-0350-gmt+2-how-to-get-3-ivs-ditto-from-pokeradar-in-pokemon-xy-1.png](./20161017-0350-gmt+2-how-to-get-3-ivs-ditto-from-pokeradar-in-pokemon-xy-1.png)
