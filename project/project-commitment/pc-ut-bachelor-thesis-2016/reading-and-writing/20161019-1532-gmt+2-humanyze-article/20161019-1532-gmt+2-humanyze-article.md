@@ -40,24 +40,24 @@
     * How often a person interrupt another person speaking.
     * And then the volume of the speech.
 
-![./-120161019-1532-gmt+2-humanyze-article0.png](./20161019-1532-gmt+2-humanyze-article-10.png)
+![./-120161019-1532-gmt+2-humanyze-article-10.png](./20161019-1532-gmt+2-humanyze-article-10.png)
 
 * In MIT the technology could be used to predict 85 percent accuracy on who would win in salary negotiation in controlled test environment.
 * Achieved similar thing in speed dating.
 
-![./-120161019-1532-gmt+2-humanyze-article1.png](./20161019-1532-gmt+2-humanyze-article-11.png)
+![./-120161019-1532-gmt+2-humanyze-article-11.png](./20161019-1532-gmt+2-humanyze-article-11.png)
 
 * "Who talks to whom.".
 
-![./-120161019-1532-gmt+2-humanyze-article2.png](./20161019-1532-gmt+2-humanyze-article-12.png)
+![./-120161019-1532-gmt+2-humanyze-article-12.png](./20161019-1532-gmt+2-humanyze-article-12.png)
 
 * So it is indeed the same person who invented the original sociometric badge from MIT Human Dynamics group.
 
-![./-120161019-1532-gmt+2-humanyze-article3.png](./20161019-1532-gmt+2-humanyze-article-13.png)
+![./-120161019-1532-gmt+2-humanyze-article-13.png](./20161019-1532-gmt+2-humanyze-article-13.png)
 
-![./-120161019-1532-gmt+2-humanyze-article4.png](./20161019-1532-gmt+2-humanyze-article-14.png)
+![./-120161019-1532-gmt+2-humanyze-article-14.png](./20161019-1532-gmt+2-humanyze-article-14.png)
 
-![./-120161019-1532-gmt+2-humanyze-article5.png](./20161019-1532-gmt+2-humanyze-article-15.png)
+![./-120161019-1532-gmt+2-humanyze-article-15.png](./20161019-1532-gmt+2-humanyze-article-15.png)
 
 * There are 4 kinds of sensors in this sociometric badge.
     * Bluetooth to scan other devices in range.
@@ -65,51 +65,51 @@
     * Microphones.
     * Accelerometer.
 
-![./-120161019-1532-gmt+2-humanyze-article6.png](./20161019-1532-gmt+2-humanyze-article-16.png)
+![./-120161019-1532-gmt+2-humanyze-article-16.png](./20161019-1532-gmt+2-humanyze-article-16.png)
 
-![./-120161019-1532-gmt+2-humanyze-article7.png](./20161019-1532-gmt+2-humanyze-article-17.png)
+![./-120161019-1532-gmt+2-humanyze-article-17.png](./20161019-1532-gmt+2-humanyze-article-17.png)
 
 * Example case of sociometric badge in Bank Of America in term of engagement of social interaction between teammates.
 
-![./-120161019-1532-gmt+2-humanyze-article8.png](./20161019-1532-gmt+2-humanyze-article-18.png)
+![./-120161019-1532-gmt+2-humanyze-article-18.png](./20161019-1532-gmt+2-humanyze-article-18.png)
 
 * New keywords here are myopic metrics to reducing cost, KPIs.
 
-![./-120161019-1532-gmt+2-humanyze-article9.png](./20161019-1532-gmt+2-humanyze-article-19.png)
+![./-120161019-1532-gmt+2-humanyze-article-19.png](./20161019-1532-gmt+2-humanyze-article-19.png)
 
 * This sociometric badge does not record what happened in the bathroom.
 
-![./-220161019-1532-gmt+2-humanyze-article0.png](./20161019-1532-gmt+2-humanyze-article-20.png)
+![./-220161019-1532-gmt+2-humanyze-article-20.png](./20161019-1532-gmt+2-humanyze-article-20.png)
 
 * Helping people to understand the big tool.
 * Much clear conversation.
 
-![./-220161019-1532-gmt+2-humanyze-article1.png](./20161019-1532-gmt+2-humanyze-article-21.png)
+![./-220161019-1532-gmt+2-humanyze-article-21.png](./20161019-1532-gmt+2-humanyze-article-21.png)
 
 * There is something like contract/NDA/TOA (Term Of Agreement) before someone is about to use sociometric badge within their office environment.
 * So, is this what I meant about data gathering with consent?
 
-![./-220161019-1532-gmt+2-humanyze-article2.png](./20161019-1532-gmt+2-humanyze-article-22.png)
+![./-220161019-1532-gmt+2-humanyze-article-22.png](./20161019-1532-gmt+2-humanyze-article-22.png)
 
-![./-220161019-1532-gmt+2-humanyze-article3.png](./20161019-1532-gmt+2-humanyze-article-23.png)
+![./-220161019-1532-gmt+2-humanyze-article-23.png](./20161019-1532-gmt+2-humanyze-article-23.png)
 
 * FitBit for your career instead for jogging/running/sport.
 * This sociometric badge setup what people want to achieve.
 
-![./-220161019-1532-gmt+2-humanyze-article4.png](./20161019-1532-gmt+2-humanyze-article-24.png)
+![./-220161019-1532-gmt+2-humanyze-article-24.png](./20161019-1532-gmt+2-humanyze-article-24.png)
 
 * Case examples.
 * I actually want this now.
 
-![./-220161019-1532-gmt+2-humanyze-article5.png](./20161019-1532-gmt+2-humanyze-article-25.png)
+![./-220161019-1532-gmt+2-humanyze-article-25.png](./20161019-1532-gmt+2-humanyze-article-25.png)
 
 * SMOODLY, adaptable office environment.
 
-![./-220161019-1532-gmt+2-humanyze-article6.png](./20161019-1532-gmt+2-humanyze-article-26.png)
+![./-220161019-1532-gmt+2-humanyze-article-26.png](./20161019-1532-gmt+2-humanyze-article-26.png)
 
 * Humanyze provides its technology to research based group.
 * For example Arizona State University produced particular project about whether creativity can be measures behaviorally.
 * Here is the link to the main article, [http://www.computerworld.com/article/3006631/data-analytics/startup-humanyzes-people-analytics-wants-to-transform-your-workplace.html](http://www.computerworld.com/article/3006631/data-analytics/startup-humanyzes-people-analytics-wants-to-transform-your-workplace.html).
 * Below is the full article about Humanyze and its main product.
 
-![./-220161019-1532-gmt+2-humanyze-article7.png](./20161019-1532-gmt+2-humanyze-article-27.png)
+![./-220161019-1532-gmt+2-humanyze-article-27.png](./20161019-1532-gmt+2-humanyze-article-27.png)

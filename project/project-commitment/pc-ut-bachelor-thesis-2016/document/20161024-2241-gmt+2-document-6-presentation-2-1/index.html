@@ -1,0 +1,231 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <title>reveal.js</title>
+
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/black.css">
+
+        <!-- Theme used for syntax highlighting of code -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # What things are already there?
+                            * Real time server for sociometric badge.
+                            * New Linux based sociometric badge.
+                            * Motorola Smart Badge.
+                            * Office tracking tools.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Real time server for sociometric badge.
+                            * [https://rhythm.mit.edu/](https://rhythm.mit.edu/), open source sociometric badge named open badge. The project name is Rhyhtm.
+                            * [https://github.com/HumanDynamics/openbadge-server](https://github.com/HumanDynamics/openbadge-server), link to GitHub repository page of Rhythm server for sociometric badge.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/open-badge.png](./asset/open-badge.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # New Linux based sociometric badge.
+                            * Based on this web page [http://hd.media.mit.edu/badges/information.html](http://hd.media.mit.edu/badges/information.html), there will be a new sociometric badge based on Linux.
+                            * Since the web page is from ~2008 I assume that this is what [http://www.humanyze.com/](http://www.humanyze.com/) currently offers.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/humanyze-badge.png](./asset/humanyze-badge.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Motorola Smart Badge (1/3).
+                            * There is a smart badge from Motorola.
+                            * I am not sure if this badge is also do sociometry calculations.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Motorola Smart Badge (2/3).
+                            * Link to the product specification, [https://www.zebra.com/us/en/products/mobile-computers/handheld/sb1-smart-badge-series.html](https://www.zebra.com/us/en/products/mobile-computers/handheld/sb1-smart-badge-series.html).
+                            * In the above link the brand is Zebra, but there is the same badge with Motorola brand, [https://www.centralpoint.nl/rfid-mobile-computers/zebra/sb1-smart-badge-art-sb1b-se11a0ww-num-4377437/](https://www.centralpoint.nl/rfid-mobile-computers/zebra/sb1-smart-badge-art-sb1b-se11a0ww-num-4377437/).
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Motorola Smart Badge (3/3).
+                            * The cost is ~300 Euros.
+
+                            ![./asset/motorola-badge-1.png](./asset/motorola-badge-1.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/motorola-badge-2.png](./asset/motorola-badge-2.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Office tracking tools.
+                            * Check here, [http://harkmylord.com/iot-smart-office.html](http://harkmylord.com/iot-smart-office.html).
+                            * It is like they put every possible sensors into the office.
+                            * Simple CreaTe-esque smart office.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/smart-office.png](./asset/smart-office.png)
+                        </script>
+                    </section>
+                </section>
+                <section data-markdown>
+                    <script type="text/template">
+                        # Brainstorming ideas.
+                        * Low entry open source sociometric badge.
+                        * Personal sociometric badge.
+                        * Sociopod avatar.
+                    </script>
+                </section>
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Low entry open source sociometric badge (1/2).
+                            * Problem: No open source solution to sociometry that is easy to make and using existing technology.
+                            * Solution: Create an open source project to make sociometric badge using existing technology.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/smart-badge.png](./asset/smart-badge.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Low entry open source sociometric badge (2/2).
+                            * Principles:
+                                * Make it using existing processing power.
+                                    * Android/Raspberry for server.
+                                    * Arduino/Raspberry PI for client.
+                                * Make it so that it is easy to make and operate for non technical person.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Links.
+                            * [http://theappslab.com/2015/11/09/a-smart-badge-for-a-smart-office/](http://theappslab.com/2015/11/09/a-smart-badge-for-a-smart-office/), tutorial on how to create basic smart badge without the sociometry stuffs.
+                            * [https://github.com/HumanDynamics/openbadge-server](https://github.com/HumanDynamics/openbadge-server) Rhythm NodeJS based server for the sociometric badge.
+                        </script>
+                    </section>
+                </section>
+                <section>
+                    <section data-markdown>
+                        <script type="text/templates">
+                            # Personal sociometric badge (1/2).
+                            * Problem: Sociometric badge was created as a personal benchmarking tool in office environment. It has no use when used personally.
+                            * Solution: Create a personal sociometric badge connected to The Internet for people who want to get something done.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/templates">
+                            ![./asset/smart-watch.png](./asset/smart-watch.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/templates">
+                            # Personal sociometric badge (2/2).
+                            * Principle:
+                                * Like FitBit (fitness tracker) but for productivity.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/templates">
+                            ![./asset/productivity-tracker.png](./asset/productivity-tracker.png)
+                        </script>
+                    </section>
+                </section>
+                <section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Sociopod avatar (1/2).
+                            * Problem: There is no problem here actually. Only offer new perspective on sociometry data gathering.
+                            * Solution: Create a still based personalized sociometric pod those are placed around office in specific locations.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Sociopod avatar (2/2).
+                            * Principle:
+                                * Make it as a networked personal assistant.
+                                * Works like Tamagotchi without the annoying part of course.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/sociopod-1.png](./asset/sociopod-1.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            ![./asset/sociopod-2.png](./asset/sociopod-2.png)
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # Sociopod avatar (2/2).
+                            * Principle:
+                                * Make it as a networked personal assistant.
+                                * Works like Tamagotchi without the annoying part of course.
+                        </script>
+                    </section>
+                    <section data-markdown>
+                        <script type="text/template">
+                            # How does it works?
+                            * All is the same with the current sociometric badge.
+                            * However each employee has his/her own profile that can be "logged in" with tapping their RFID ID card.
+                            * The badge will act like a personal counselor for its user. Suggesting what to work, when to have meeting, and when to have rest.
+                        </script>
+                    </section>
+                </section>
+            </div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            // More info https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                history: true,
+
+                // More info https://github.com/hakimel/reveal.js#dependencies
+                dependencies: [
+                    { src: 'plugin/markdown/marked.js' },
+                    { src: 'plugin/markdown/markdown.js' },
+                    { src: 'plugin/notes/notes.js', async: true },
+                    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+                ]
+            });
+        </script>
+    </body>
+</html>
