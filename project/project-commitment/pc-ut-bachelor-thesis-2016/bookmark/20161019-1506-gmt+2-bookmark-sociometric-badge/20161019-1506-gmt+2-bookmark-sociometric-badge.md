@@ -1,2 +1,0 @@
-* [http://hd.media.mit.edu/badges/index.html](http://hd.media.mit.edu/badges/index.html), link to the home page of sociometric badge.
-* [http://www.humanyze.com/index.html](http://www.humanyze.com/index.html), this company's product is a sociometric badges.
