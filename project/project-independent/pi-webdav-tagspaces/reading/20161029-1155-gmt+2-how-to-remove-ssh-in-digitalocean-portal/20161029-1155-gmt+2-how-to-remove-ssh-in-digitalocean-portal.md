@@ -1,0 +1,2 @@
+* You can remove SSH keys in your DigitalOcean account from this web page, [https://cloud.digitalocean.com/settings/security](https://cloud.digitalocean.com/settings/security).
+* I got this information from this web page, [https://www.digitalocean.com/community/questions/how-to-remove-ssh-in-digitalocean-portal](https://www.digitalocean.com/community/questions/how-to-remove-ssh-in-digitalocean-portal).

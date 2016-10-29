@@ -1,0 +1,2 @@
+* Here is how to know the owner and the group of a directory or a file in Linux, `ls -l /path/to/directory/or/file/`.
+* I found this solution from this link, [http://askubuntu.com/questions/175054/how-to-find-owner-and-group-of-a-directory](http://askubuntu.com/questions/175054/how-to-find-owner-and-group-of-a-directory).
