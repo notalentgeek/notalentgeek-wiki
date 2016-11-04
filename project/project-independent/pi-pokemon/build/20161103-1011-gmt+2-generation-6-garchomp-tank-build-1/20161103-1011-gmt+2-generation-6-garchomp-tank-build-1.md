@@ -1,4 +1,4 @@
-* Tank Garchomp build Pokemon generation 6 from Smogon, [http://www.smogon.com/dex/xy/pokemon/garchomp/](http://www.smogon.com/dex/xy/pokemon/garchomp/).
+﻿* Tank Garchomp build Pokemon for generation 6 from Smogon, [http://www.smogon.com/dex/xy/pokemon/garchomp/](http://www.smogon.com/dex/xy/pokemon/garchomp/).
 * Moves.
     * Dragon Tail.
     * Earthquake.
