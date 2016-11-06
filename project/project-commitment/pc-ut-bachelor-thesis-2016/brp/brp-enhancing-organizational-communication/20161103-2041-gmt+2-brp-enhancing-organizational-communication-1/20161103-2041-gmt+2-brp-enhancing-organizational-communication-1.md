@@ -78,9 +78,9 @@
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-14.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-14.png)
 
 * Example applications.
-    * "Follow The Star".
+    * Follow The Star.
     * Meeting Mediator.
-    * The "Presence Book".
+    * The Presence Book.
 * At this age term "application" is still for both hardware and software. While, nowadays "application" is more for software application. While, hardware application is commonly called by gadget.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-15.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-15.png)
@@ -102,10 +102,10 @@
 
 * There was this Reality Mining System.
 * The website is pretty cool and informative actually, [http://realitycommons.media.mit.edu/index.html](http://realitycommons.media.mit.edu/index.html).
-* And also there was a VibeFone.
-* VibeFone is the socially aware mobile phone. Perhaps this is what they meant by the context aware mobile phone they mentioned several paragraph above.
-* This link refer to research paper about VibeFone, [http://hd.media.mit.edu/tech-reports/TR-605.pdf](http://hd.media.mit.edu/tech-reports/TR-605.pdf).
-* There is also this Android application about VibeFone, [https://github.com/weirdwater/VibePhone](https://github.com/weirdwater/VibePhone). However it is lack of information.
+* And also there was a VibeFones.
+* VibeFones is the socially aware mobile phone. Perhaps this is what they meant by the context aware mobile phone they mentioned several paragraph above.
+* This link refer to research paper about VibeFones, [http://hd.media.mit.edu/tech-reports/TR-605.pdf](http://hd.media.mit.edu/tech-reports/TR-605.pdf).
+* There is also this Android application about VibeFones, [https://github.com/weirdwater/VibePhone](https://github.com/weirdwater/VibePhone). However it is lack of information.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-19.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-19.png)
 
@@ -114,7 +114,7 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-20.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-20.png)
 
-* VibeFone uses its user location, proximity, and tone of voice to gain sophisticated understanding of people's social lives.
+* VibeFones uses its user location, proximity, and tone of voice to gain sophisticated understanding of people's social lives.
 * This achieved by mining their face to face and phone interactions.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-21.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-21.png)
@@ -195,9 +195,9 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-38.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-38.png)
 
-* There is this "Presence Book".
-* The "Presence Book" is like a socially aware phone book application for mobile phone.
-* In case the person busy or available it can be told directly from "Presence Book".
+* There is this Presence Book.
+* The Presence Book is like a socially aware phone book application for mobile phone.
+* In case the person busy or available it can be told directly from Presence Book.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-39.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-39.png)
 
@@ -207,43 +207,43 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-41.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-41.png)
 
-* In "Presence Book" movement and speech activity of a wearer determine whether this wearer is available or not.
+* In Presence Book movement and speech activity of a wearer determine whether this wearer is available or not.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-42.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-42.png)
 
 * Let say the badge wearer has less movement and the badge wearer located on its office, he/she cold be sitting and available for face to face conversation.
 * If the badge wearer is known walking. Then he/she might be accessible through email or phone call.
-* This "Presence Book" use location data of the badge wearer to detect their accessibility.
+* This Presence Book use location data of the badge wearer to detect their accessibility.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-43.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-43.png)
 
-* "Presence Book" can easily display which person might know what person.
+* Presence Book can easily display which person might know what person.
 * So this is like the People Wiki idea that I suggested before.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-44.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-44.png)
 
-* This is an example called "Follow The Star".
+* This is an example called Follow The Star.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-45.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-45.png)
 
-* "Follow The Star" is a location aware physical visualization that uses ceiling as display.
+* Follow The Star is a location aware physical visualization that uses ceiling as display.
 * Ceiling displays are ideal for stores and office because it does not obstructed by shelves or walls.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-46.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-46.png)
 
-* This "Follow The Star" displays badge wearer's level of expertise on certain topic.
+* This Follow The Star displays badge wearer's level of expertise on certain topic.
 * The color of green on the "Follow Of The Star" indicates that the target is currently available.
 * The color of red on the "Follow Of The Star" indicates that the target is currently occupied.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-47.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-47.png)
 
 * I suggest that the target that they mean here is the badge wearer.
-* So this "Follow The Star" installation is like the interface of the sociometric badge.
-* "Follow The Star" is the mobile phone equivalent from the "Presence Book" implementation.
+* So this Follow The Star installation is like the interface of the sociometric badge.
+* Follow The Star is the mobile phone equivalent from the Presence Book implementation.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-48.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-48.png)
 
-* Communication happen one way from badge to the "Follow The Star".
+* Communication happen one way from badge to the Follow The Star.
 * When the star receives data it will specific light bulb turned on.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-49.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-49.png)
@@ -255,7 +255,7 @@
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-50.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-50.png)
 
 * Privacy concern can be reduced by reporting data anonymously.
-* However, in the "Presence Book" application this is not possible due to its principle on reporting whether or not a person is available or busy.
+* However, in the Presence Book application this is not possible due to its principle on reporting whether or not a person is available or busy.
 * Another solution is to let user has a control of her/his privacy level.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-51.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-51.png)

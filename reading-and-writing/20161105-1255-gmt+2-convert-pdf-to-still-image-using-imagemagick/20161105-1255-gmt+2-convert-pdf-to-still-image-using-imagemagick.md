@@ -1,0 +1,2 @@
+* Here is an ImageMagick command to convert .pdf into separete .png, `convert -density 150 input.pdf -quality 90 output.png`.
+* Source, [http://askubuntu.com/questions/50170/how-to-convert-pdf-to-image](http://askubuntu.com/questions/50170/how-to-convert-pdf-to-image).

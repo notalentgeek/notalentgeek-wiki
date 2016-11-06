@@ -1,0 +1,3 @@
+* Choose Insert in the menu bar then click Hyperlink to add Hyperlink in LibreOffice Calc.
+* If you highlight the words before clicking Hyperlink in Insert menu bar the text field is automatically filled. However, the URL is not yet set, hence you need to set the URL to accompany the text.
+* Source, [https://help.libreoffice.org/Common/Inserting_Hyperlinks](https://help.libreoffice.org/Common/Inserting_Hyperlinks).
