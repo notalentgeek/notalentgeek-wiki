@@ -11,12 +11,12 @@ pip install mkdocs
 pip3 install --updgrade pip
 ```
 
+* Download and install Anki, [http://ankisrs.net/](http://ankisrs.net/).
 * Download and install Etcher, [https://www.etcher.io/](https://www.etcher.io/). Then set the installer to be executable using this command, `chmod a+x Etcher-linux-x64.AppImage`.
 * Download and install Sublime Text 3, [https://www.sublimetext.com/3](https://www.sublimetext.com/3).
+* Download and install TagSpaces (check mikael.pratama@yahoo.com email for the download link).
 * Download Language Pack from Settings application, Language Support application.
 * Install Sublime Text 3 Package Manager from [https://packagecontrol.io/installation](https://packagecontrol.io/installation). Then download Sublime Text 3 packages (see below).
-* Install Sublime Text 3.
-* Install TagSpaces.
 * Login Chromium.
 * Login Dropbox.
 * Login Steam.

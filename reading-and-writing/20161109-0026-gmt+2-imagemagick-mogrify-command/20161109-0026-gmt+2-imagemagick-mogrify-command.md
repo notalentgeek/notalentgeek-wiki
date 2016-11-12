@@ -1,0 +1,3 @@
+* If you want to convert/format all image into same name (replacement) using ImageMagick then it is better to us the `mogrify` command than `convert` command.
+* Here is an example on how to use `mogrify` command to convert all .png files into .jpg files `mogrify -format jpg *.png`
+* Here is a link to ImageMagick documentation on basic usage, [http://www.imagemagick.org/Usage/basics/](http://www.imagemagick.org/Usage/basics/).

@@ -1,4 +1,4 @@
-* This my summarization of State Of Art Paper from the creator of the sociometric badge.
+﻿* This my summarization of State Of Art Paper from the creator of the sociometric badge.
 * Here is the .pdf.
 
 [./20161105-1413-gmt+2-brp-state-of-the-art-1-1.pdf](./20161105-1413-gmt+2-brp-state-of-the-art-1-1.pdf)
@@ -28,7 +28,7 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-6.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-6.png)
 
-* Active Badge developed at Olivetti research in 1990.
+* Active Badge developed at Olivetti Research in 1990.
 * However, this company is not relevant anymore.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-7.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-7.png)
