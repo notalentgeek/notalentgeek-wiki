@@ -1,4 +1,5 @@
 * This is my summary about AND!XOR Unofficial DEF CON badge.
+* There is this YouTube video that reviewed this badge, [https://www.youtube.com/watch?v=OgD4Es2KB5g](https://www.youtube.com/watch?v=OgD4Es2KB5g).
 
 ![./20161106-1820-gmt+2-brp-state-of-the-art-6-def-con-andxor-unofficial-badge-1.png](./20161106-1820-gmt+2-brp-state-of-the-art-6-def-con-andxor-unofficial-badge-1.png)
 
