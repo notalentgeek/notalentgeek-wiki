@@ -1,9 +1,10 @@
-* Run this code after fresh installation of Linux Ubuntu Mate 16.04.
+﻿* Run this code after fresh installation of Linux Ubuntu Mate 16.04.
 
 ```markdown
+sudo add-apt-repository ppa:ubuntuhandbook1/audacity
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install apache2 bleachbit blender chromium-browser composer dia gimp git gparted imagemagick inkscape keepassx libapache2-mod-php libreoffice make mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-pip python3 python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird
+sudo apt-get install audacity apache2 bleachbit blender chromium-browser composer dia gimp git gparted imagemagick inkscape keepassx libapache2-mod-php libreoffice make mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-pip python3 python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird
 git config --global user.email mikael.pratama@yahoo.com
 git config --global user.name notalentgeek
 pip install --updgrade pip

@@ -1,0 +1,2 @@
+* Best way to catch Deoxys with a Synchro Pokemon is to defeat it at the first try and then catch it again after beating the Delta Episode and Elite Four.
+* Reddit link, [https://www.reddit.com/r/pokemon/comments/2nm4d0/best_way_to_get_correct_natureiv_rayquaza_deoxys/](https://www.reddit.com/r/pokemon/comments/2nm4d0/best_way_to_get_correct_natureiv_rayquaza_deoxys/).
