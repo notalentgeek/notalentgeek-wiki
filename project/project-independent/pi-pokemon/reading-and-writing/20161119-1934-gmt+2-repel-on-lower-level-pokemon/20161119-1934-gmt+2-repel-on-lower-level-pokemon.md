@@ -1,0 +1,3 @@
+* Repel will not be usable if the leading Pokemon in the party has lower level compared to the Pokemon in the wild.
+* This also affect roaming Pokemon like Zapdos. In my case Zapdos was level 70, if I lead with a level 100 Pokemon and then use Repel, Zapdos will not be encountered.
+* Link to this information, [http://pokemondb.net/pokebase/58725/why-isnt-my-max-repel-working-in-mistralton-cave](http://pokemondb.net/pokebase/58725/why-isnt-my-max-repel-working-in-mistralton-cave).
