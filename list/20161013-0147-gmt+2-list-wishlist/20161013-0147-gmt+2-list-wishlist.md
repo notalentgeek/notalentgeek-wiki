@@ -9,3 +9,11 @@
 ![./no-fill-staples-2.png](./no-fill-staples-2.png)
 
 * [https://www.amazon.com/Kokuyo-Harinacs-Japanese-Stapleless-Stapler/dp/B00F2YSDYY/](https://www.amazon.com/Kokuyo-Harinacs-Japanese-Stapleless-Stapler/dp/B00F2YSDYY/), staples that no need to be filled. It uses specific folding mechanics to bind papers. However, this can only be used to bind less than 10 papers.
+
+![./3ds-galaga-pacman.png](./3ds-galaga-pacman.png)
+
+* [https://www.bol.com/nl/p/pac-man-galaga-dimensions/1004004011303984/?suggestionType=typedsearch](https://www.bol.com/nl/p/pac-man-galaga-dimensions/1004004011303984/?suggestionType=typedsearch), I want to play classic Pac Man in 3DS.
+
+![./finalbossblue.png](./finalbossblue.png)
+
+* [https://finalbossblues.itch.io/](https://finalbossblues.itch.io/), video game asset from FinalBossBlue. He/she is my favorite sprite artist that provides cheap and easy to modified sprite art.
