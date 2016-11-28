@@ -1,2 +1,2 @@
-* Can sociometric badge be tempered?
-* Why would sociometric badge be an mobile application instead?
+* Can Sociometric Badge be tempered?
+* Why would Sociometric Badge be an mobile application instead?

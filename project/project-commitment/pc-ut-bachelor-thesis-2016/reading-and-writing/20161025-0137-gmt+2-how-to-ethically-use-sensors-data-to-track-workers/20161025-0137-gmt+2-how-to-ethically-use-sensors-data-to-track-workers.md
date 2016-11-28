@@ -1,8 +1,8 @@
 ![./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-1.png](./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-1.png)
 
-* I have seen a lot of articles about sociometric badge.
-* The main use of the sociometric badge is to help people in collaboration.
-* It is also possible to know whether a person will win a negotiation or not from data gathered from the sociometric badge.
+* I have seen a lot of articles about Sociometric Badge.
+* The main use of the Sociometric Badge is to help people in collaboration.
+* It is also possible to know whether a person will win a negotiation or not from data gathered from the Sociometric Badge.
 
 ![./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-2.png](./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-2.png)
 
@@ -20,7 +20,7 @@
 
 ![./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-4.png](./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-4.png)
 
-* Fake badge in case people does not want to participate in using sociometric badge.
+* Fake badge in case people does not want to participate in using Sociometric Badge.
 * However, since it mostly benefits the wearer people will rarely resist.
 
 ![./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-5.png](./20161025-0137-gmt+2-how-to-ethically-use-sensors-data-to-track-workers-5.png)

@@ -1,4 +1,4 @@
-﻿* This my summarization of State Of Art Paper from the creator of the sociometric badge.
+﻿* This my summarization of State Of Art Paper from the creator of the Sociometric Badge.
 * Here is the .pdf.
 
 [./20161105-1413-gmt+2-brp-state-of-the-art-1-1.pdf](./20161105-1413-gmt+2-brp-state-of-the-art-1-1.pdf)
@@ -12,11 +12,11 @@
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-4.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-4.png)
 
 * This paper is brought by Daniel Olguin Olguin and Professor Alex "Sandy" Pentland.
-* I have seen these names a lot in article and paper regarding sociometric badge.
+* I have seen these names a lot in article and paper regarding Sociometric Badge.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-5.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-5.png)
 
-* The most basic function of sociometric badge.
+* The most basic function of Sociometric Badge.
     * Able to measure amount of face to face interaction.
     * Conversational time.
     * Physical activity level measured using xyz sensor.
@@ -111,21 +111,21 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-20.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-20.png)
 
-* The current state of the art of sociometric badge is to measure individual and group behavior in social sciences.
+* The current state of the art of Sociometric Badge is to measure individual and group behavior in social sciences.
 * Researchers should not worry anymore to conduct social test using interviews or surveys.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-21.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-21.png)
 
-* Surveys and observations are time consuming and this sociometric badge is here as an experimental research platform.
+* Surveys and observations are time consuming and this Sociometric Badge is here as an experimental research platform.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-22.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-22.png)
 
-* They expect sociometric badge to have high demand in research communities and later in consumer market for self monitoring devices.
+* They expect Sociometric Badge to have high demand in research communities and later in consumer market for self monitoring devices.
 * So expect this to be in researchers hand first then in end consumers hand.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-23.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-23.png)
 
-* The main functionality of this sociometric badge is to automatically capture individual and group pattern of social behaviors.
+* The main functionality of this Sociometric Badge is to automatically capture individual and group pattern of social behaviors.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-24.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-24.png)
 
@@ -135,7 +135,7 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-25.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-25.png)
 
-* More so, sociometric badge need to be able to provide feedback to its user (either real time or not).
+* More so, Sociometric Badge need to be able to provide feedback to its user (either real time or not).
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-26.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-26.png)
 
@@ -151,7 +151,7 @@
 
 * Using camera is expensive and limited to a particular space (well not anymore, nowadays you can buy cheap and small camera).
 * Surveys is inaccurate and time consuming.
-* Below are examples of sociometric badge implementations.
+* Below are examples of Sociometric Badge implementations.
     * Intelligent hospitals.
     * Knowledge management and collaboration tools.
     * Personal sales coach.
@@ -162,7 +162,7 @@
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-29.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-29.png)
 
 * Sensible organizations mean to make an organization to give feedback and know the social structure within the organization.
-* The sociometric badge offered capability to these matters.
+* The Sociometric Badge offered capability to these matters.
     * Capable of monitoring human behavior.
     * Extracting meaningful information.
     * Provides the employees with performance evaluations and recommendations.
@@ -193,23 +193,23 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-34.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-34.png)
 
-* The other implementations of this sociometric badge is in health care.
+* The other implementations of this Sociometric Badge is in health care.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-35.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-35.png)
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-36.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-36.png)
 
-* Sociometric badge can be used as a self monitoring device that alerts user if their family members has early symptoms of depression.
+* Sociometric Badge can be used as a self monitoring device that alerts user if their family members has early symptoms of depression.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-37.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-37.png)
 
-* Sociometric badge can be used as well to monitor daily activities of elderly people.
+* Sociometric Badge can be used as well to monitor daily activities of elderly people.
 * For example it can detect falls of behavioral changes, then alert the nearby family members or medically capable of this potentially dangerous situation.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-38.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-38.png)
 
 * Another thing is for managing obesity.
-* Sociometric badge and mobile phone could be used to keep track of these things.
+* Sociometric Badge and mobile phone could be used to keep track of these things.
     * Energy expenditure.
     * Food intake.
     * Daily routines.
@@ -217,9 +217,9 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-39.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-39.png)
 
-* Another implementations of sociometric badge is to make intelligent hospitals.
+* Another implementations of Sociometric Badge is to make intelligent hospitals.
 * This is similar on what Vocera Badge has achieved.
-* In this paper sociometric badge can be used to provide information on location and specific person for right moment.
+* In this paper Sociometric Badge can be used to provide information on location and specific person for right moment.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-40.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-40.png)
 
@@ -228,18 +228,18 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-41.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-41.png)
 
-* Sociometric badge can be used as well to provide doctor in emergency situation.
+* Sociometric Badge can be used as well to provide doctor in emergency situation.
 * To track patients as they moved from one to another facility within the hospital.
 * To transfer patient's psychological data as they moved inside the hospital or for future reference.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-42.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-42.png)
 
-* Sociometric badge can be used as a personal sales coaching as well.
+* Sociometric Badge can be used as a personal sales coaching as well.
 * It tells the user on what kind of matters will pull or push costumers.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-43.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-43.png)
 
-* Sociometric badge gives advice on how to interact with clients more effectively.
+* Sociometric Badge gives advice on how to interact with clients more effectively.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-44.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-44.png)
 
@@ -254,22 +254,22 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-46.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-46.png)
 
-* Sociometric badge can also be used in virtual worlds and social networking sites.
+* Sociometric Badge can also be used in virtual worlds and social networking sites.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-47.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-47.png)
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-48.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-48.png)
 
 * Interaction in online video games and social networking sites is limited to text chat.
-* However, sociometric badge can offer different layer of communication by knowing personal social signals to other player within world wide web.
+* However, Sociometric Badge can offer different layer of communication by knowing personal social signals to other player within world wide web.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-49.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-49.png)
 
-* Sociometric badge provides new dimension of communication support.
+* Sociometric Badge provides new dimension of communication support.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-50.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-50.png)
 
-* The long term goal of sociometric badge is to set interventions and recommendations that can lead to better individual.
+* The long term goal of Sociometric Badge is to set interventions and recommendations that can lead to better individual.
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-51.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-51.png)
 
@@ -277,4 +277,4 @@
 
 ![./20161105-1413-gmt+2-brp-state-of-the-art-1-52.png](./20161105-1413-gmt+2-brp-state-of-the-art-1-52.png)
 
-* Hence, sociometric badge will also become light weight and smaller.
+* Hence, Sociometric Badge will also become light weight and smaller.

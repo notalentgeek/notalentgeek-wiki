@@ -1,4 +1,4 @@
-* There is this active badge system that is the root of the original sociometric badge.
+* There is this active badge system that is the root of the original Sociometric Badge.
 * It is called the Active Badge System.
 * It looks like this.
 

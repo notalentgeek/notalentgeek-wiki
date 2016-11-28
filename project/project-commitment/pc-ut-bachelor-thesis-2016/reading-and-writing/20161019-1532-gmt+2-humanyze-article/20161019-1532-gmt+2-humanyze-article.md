@@ -17,7 +17,7 @@
 
 ![./20161019-1532-gmt+2-humanyze-article-5.png](./20161019-1532-gmt+2-humanyze-article-5.png)
 
-* There is a physical interface that used data gathered from the sociometric badge which is the social coffee robot.
+* There is a physical interface that used data gathered from the Sociometric Badge which is the social coffee robot.
 * This coffee robot would see which group need to interact more then hence it arranges something (?).
 * I am thinking like a scheduled free coffee coupon or something like that.
 
@@ -30,7 +30,7 @@
 ![./20161019-1532-gmt+2-humanyze-article-8.png](./20161019-1532-gmt+2-humanyze-article-8.png)
 
 * Simple thing is to use RFID chip.
-* The creator of this sociometric badge could tell where people are in the office by using some RFID chips.
+* The creator of this Sociometric Badge could tell where people are in the office by using some RFID chips.
 
 ![./20161019-1532-gmt+2-humanyze-article-9.png](./20161019-1532-gmt+2-humanyze-article-9.png)
 
@@ -51,7 +51,7 @@
 
 ![./-120161019-1532-gmt+2-humanyze-article-12.png](./20161019-1532-gmt+2-humanyze-article-12.png)
 
-* So it is indeed the same person who invented the original sociometric badge from MIT Human Dynamics group.
+* So it is indeed the same person who invented the original Sociometric Badge from MIT Human Dynamics group.
 
 ![./-120161019-1532-gmt+2-humanyze-article-13.png](./20161019-1532-gmt+2-humanyze-article-13.png)
 
@@ -59,7 +59,7 @@
 
 ![./-120161019-1532-gmt+2-humanyze-article-15.png](./20161019-1532-gmt+2-humanyze-article-15.png)
 
-* There are 4 kinds of sensors in this sociometric badge.
+* There are 4 kinds of sensors in this Sociometric Badge.
     * Bluetooth to scan other devices in range.
     * Infrared scanner to detect if a conversation is happening between person.
     * Microphones.
@@ -69,7 +69,7 @@
 
 ![./-120161019-1532-gmt+2-humanyze-article-17.png](./20161019-1532-gmt+2-humanyze-article-17.png)
 
-* Example case of sociometric badge in Bank Of America in term of engagement of social interaction between teammates.
+* Example case of Sociometric Badge in Bank Of America in term of engagement of social interaction between teammates.
 
 ![./-120161019-1532-gmt+2-humanyze-article-18.png](./20161019-1532-gmt+2-humanyze-article-18.png)
 
@@ -77,7 +77,7 @@
 
 ![./-120161019-1532-gmt+2-humanyze-article-19.png](./20161019-1532-gmt+2-humanyze-article-19.png)
 
-* This sociometric badge does not record what happened in the bathroom.
+* This Sociometric Badge does not record what happened in the bathroom.
 
 ![./-220161019-1532-gmt+2-humanyze-article-20.png](./20161019-1532-gmt+2-humanyze-article-20.png)
 
@@ -86,7 +86,7 @@
 
 ![./-220161019-1532-gmt+2-humanyze-article-21.png](./20161019-1532-gmt+2-humanyze-article-21.png)
 
-* There is something like contract/NDA/TOA (Term Of Agreement) before someone is about to use sociometric badge within their office environment.
+* There is something like contract/NDA/TOA (Term Of Agreement) before someone is about to use Sociometric Badge within their office environment.
 * So, is this what I meant about data gathering with consent?
 
 ![./-220161019-1532-gmt+2-humanyze-article-22.png](./20161019-1532-gmt+2-humanyze-article-22.png)
@@ -94,7 +94,7 @@
 ![./-220161019-1532-gmt+2-humanyze-article-23.png](./20161019-1532-gmt+2-humanyze-article-23.png)
 
 * FitBit for your career instead for jogging/running/sport.
-* This sociometric badge setup what people want to achieve.
+* This Sociometric Badge setup what people want to achieve.
 
 ![./-220161019-1532-gmt+2-humanyze-article-24.png](./20161019-1532-gmt+2-humanyze-article-24.png)
 

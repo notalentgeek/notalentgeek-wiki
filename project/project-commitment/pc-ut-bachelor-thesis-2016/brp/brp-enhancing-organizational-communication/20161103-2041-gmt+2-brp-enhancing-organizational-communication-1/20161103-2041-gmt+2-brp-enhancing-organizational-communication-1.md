@@ -6,7 +6,7 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-3.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-3.png)
 
-* The sociometric badge is initially intended to be used within organizational environment.
+* The Sociometric Badge is initially intended to be used within organizational environment.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-4.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-4.png)
 
@@ -25,26 +25,26 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-6.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-6.png)
 
-* There are these applications that had been made to show what the sociometric badge can do.
+* There are these applications that had been made to show what the Sociometric Badge can do.
     * Follow The Star, socially intelligent, location aware, visualization tool.
     * Meeting mediator.
     * Presence book.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-7.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-7.png)
 
-* These are some questions those the sociometric badge wants to answer.
+* These are some questions those the Sociometric Badge wants to answer.
     * How can individuals get regular feedback on their communication habit?
     * How can leader enhance the effectiveness of their team?
     * What can be done to improve the quality of organizational communication?
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-8.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-8.png)
 
-* The sociometric badge was developed by Human Dynamics Group at Massachusetts Institute Of Technology.
-* The sociometric badge automatically measures individual and collective patterns of behavior and predicts human behavior from unconscious social signals.
+* The Sociometric Badge was developed by Human Dynamics Group at Massachusetts Institute Of Technology.
+* The Sociometric Badge automatically measures individual and collective patterns of behavior and predicts human behavior from unconscious social signals.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-9.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-9.png)
 
-* So here are things those sociometric badge able to do.
+* So here are things those Sociometric Badge able to do.
     * Analyze collective pattern on group of people.
     * Predicts human behavior.
 * "Predicts human behavior" seems to sci - fi to be true. Is this what Harry Seldon thought of?
@@ -90,7 +90,7 @@
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-16.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-16.png)
 
 * There was also this Vocera Communication System.
-* This is like the original sociometric badge but with more communication features.
+* This is like the original Sociometric Badge but with more communication features.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-17.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-17.png)
 
@@ -142,7 +142,7 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-26.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-26.png)
 
-* Bluetooth is used to interfacing the sociometric badge with user's cellphone.
+* Bluetooth is used to interfacing the Sociometric Badge with user's cellphone.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-27.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-27.png)
 
@@ -151,7 +151,7 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-28.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-28.png)
 
-* The sociometric badge also know if one's speech always trigger boredom and negative response.
+* The Sociometric Badge also know if one's speech always trigger boredom and negative response.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-29.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-29.png)
 
@@ -171,7 +171,7 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-33.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-33.png)
 
-* Sociometric badge provides with real time analysis.
+* Sociometric Badge provides with real time analysis.
 * The aggregate of the data it produces shows which speaker is the most  dominant speaker.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-34.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-34.png)
@@ -180,12 +180,12 @@
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-35.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-35.png)
 
-* This sociometric badge sends data to the mobile phone for every 5 seconds.
+* This Sociometric Badge sends data to the mobile phone for every 5 seconds.
 * I am not sure why it is need to be every 5 seconds. Perhaps because at that time there are no smart phone yet.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-36.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-36.png)
 
-* Here, it is known that the sociometric badge construct a mesh network (I think) to share user movement data to each other badge.
+* Here, it is known that the Sociometric Badge construct a mesh network (I think) to share user movement data to each other badge.
 * Then it will take average of all badge wearer to raise or lower the movement threshold.
 * The data then will be aggregated via Bluetooth to mobile phone of its wearer.
 
@@ -238,7 +238,7 @@
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-47.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-47.png)
 
 * I suggest that the target that they mean here is the badge wearer.
-* So this Follow The Star installation is like the interface of the sociometric badge.
+* So this Follow The Star installation is like the interface of the Sociometric Badge.
 * Follow The Star is the mobile phone equivalent from the Presence Book implementation.
 
 ![./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-48.png](./20161103-2041-gmt+2-brp-enhancing-organizational-communication-1-48.png)

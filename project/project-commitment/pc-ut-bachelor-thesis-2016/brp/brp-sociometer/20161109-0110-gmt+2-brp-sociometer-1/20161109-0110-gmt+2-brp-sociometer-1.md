@@ -24,7 +24,7 @@
 
 ![./20161109-0110-gmt+2-brp-sociometer-1-6.png](./20161109-0110-gmt+2-brp-sociometer-1-6.png)
 
-* The sociometer and the sociometric badge are exist to minimize the usages of these things.
+* The sociometer and the Sociometric Badge are exist to minimize the usages of these things.
     * Diaries (what?!?!?!).
     * Questionnaires.
     * Surveys.

@@ -115,7 +115,7 @@
 * There was this Thinking Tag that is based on traditional badge.
 * The differences is that it can contact other Thinking Tag using infrared communication.
 * Then it will react accordingly based on the received communication.
-* I think here most badges that I have been looked into has infrared communications. Is infrared mandatory for sociometric badges?
+* I think here most badges that I have been looked into has infrared communications. Is infrared mandatory for Sociometric Badges?
 
 ![./20161112-2219-gmt+2-brp-state-of-the-art-14-digital-manipulative-30.png](./20161112-2219-gmt+2-brp-state-of-the-art-14-digital-manipulative-30.png)
 
