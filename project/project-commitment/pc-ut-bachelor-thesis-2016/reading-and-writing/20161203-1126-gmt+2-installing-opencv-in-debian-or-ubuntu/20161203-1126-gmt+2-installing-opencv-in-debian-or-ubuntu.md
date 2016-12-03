@@ -1,0 +1,3 @@
+* Guide on installing OpenCV in Ubuntu or Debian, [http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html#write-an-image](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html#write-an-image).
+
+![./20161203-1126-gmt+2-installing-opencv-in-debian-or-ubuntu-1.png](./20161203-1126-gmt+2-installing-opencv-in-debian-or-ubuntu-1.png)

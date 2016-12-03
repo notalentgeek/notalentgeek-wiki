@@ -1,0 +1,3 @@
+* Installing necessary Python library in virtual environment, [https://medium.com/@manuganji/installation-of-opencv-numpy-scipy-inside-a-virtualenv-bf4d82220313#.u6nr8gq9r](https://medium.com/@manuganji/installation-of-opencv-numpy-scipy-inside-a-virtualenv-bf4d82220313#.u6nr8gq9r).
+
+![./20161203-1243-gmt+2-installation-of-opencv-numpy-scipy-inside-a-virtualenv-1.png](./20161203-1243-gmt+2-installation-of-opencv-numpy-scipy-inside-a-virtualenv-1.png)

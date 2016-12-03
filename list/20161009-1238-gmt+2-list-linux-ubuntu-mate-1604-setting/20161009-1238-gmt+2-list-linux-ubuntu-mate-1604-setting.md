@@ -4,7 +4,8 @@
 sudo add-apt-repository ppa:ubuntuhandbook1/audacity
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install audacity apache2 bleachbit blender chromium-browser composer dia gimp git gparted imagemagick inkscape keepassx libapache2-mod-php libreoffice make mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-pip python3 python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird
+sudo apt-get install audacity apache2 bleachbit blender chromium-browser composer dia gimp git gparted imagemagick inkscape keepassx libapache2-mod-php libreoffice make mongodb mongodb-server mysql-server nautilus-dropbox nodejs-legacy npm php php-gettext php-mbstring php7.0-mbstring python python-dev python-pip python3 python3-dev python3-pip ruby ruby-dev ruby1.9.1-de scribus shutter steam synapse thunderbird virtualenvwrapper
+echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc
 git config --global user.email mikael.pratama@yahoo.com
 git config --global user.name notalentgeek
 pip install --upgrade pip

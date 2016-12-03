@@ -1,0 +1,2 @@
+* So, move re - learner in Pokemon Sun and Pokemon Moon will let your Pokemon learn any previous moves and also any moves that will be learned in later levels. For example I can get my Inceniroar Cross Chop and Outrage directgly at level 34.
+* This is very nice, because I do not need to level up my Pokemon to get desired move.

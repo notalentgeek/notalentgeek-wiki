@@ -4,6 +4,10 @@
 
 * [http://www.friendlyarm.com/index.php?route=product/product&product_id=151](http://www.friendlyarm.com/index.php?route=product/product&product_id=151), NanoPI Air. RaspBerry PI Zero alternative with WiFi and Bluetooth and it is twice smaller too!
 
+![./hag-oresama-collaboration-album.png](./hag-oresama-collaboration-album.png)
+
+* [http://wish-japan.co.jp/hag-oresama/](http://wish-japan.co.jp/hag-oresama/), HAG and Oresama collaboration album, here are some sample clips, [https://www.youtube.com/watch?v=WX0rq9pAxoo](https://www.youtube.com/watch?v=WX0rq9pAxoo).
+
 ![./no-fill-staples-1.png](./no-fill-staples-1.png)
 
 ![./no-fill-staples-2.png](./no-fill-staples-2.png)
